@@ -1,2 +1,2 @@
 Excited to start the new quarter!
-[Link] google.com
+[Lab Report 1] (https://kabirvats.github.io/cse15l-report-1/)
